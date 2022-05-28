@@ -135,3 +135,7 @@ Exercício imprimir de 1 até 10 com estrutura Repita:
 Exercício imprimir de 10 até 1 com estrutura Repita:
 
 - [Exercício 28](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2028.alg)
+
+Exercício com estrutura Repita e palavra-chave Interrompa:
+
+- [Exercício 29](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2029.alg)
