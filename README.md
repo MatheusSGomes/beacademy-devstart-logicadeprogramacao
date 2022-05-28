@@ -53,4 +53,8 @@ Crie um programa que recebe um valor de depósito do usuário e atualize seu sal
 
 Estrutura condiciona `SE ENTÃO`:
 
-- [Exercício 11]()
+- [Exercício 11](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2011.ALG)
+
+Estrutura condicionao `SE` verificando salário mínimo:
+
+- [Exercício 12](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2012.ALG)
