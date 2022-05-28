@@ -1,5 +1,4 @@
 Algoritmo "Exercicio IMC"
-// Crie um programa que receba a altura e o peso da pessoa e a classifique de acordo com a tabela.
 
 Var
    nome : CARACTERE;
