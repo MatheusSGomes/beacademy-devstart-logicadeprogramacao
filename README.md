@@ -103,3 +103,11 @@ Crie um programa que apresenta os múltiplos de dois entre 0 e 100:
 Crie um programa que imprima os múltiplos de 3 entre 2 números digitados pelo usuário:
 
 - [Exercício 23](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2023%20-%20Multiplos.alg)
+
+Crie um programa que, utilizando a estrutura "escolha caso", permita ao usuário escolher a operação a realizar (depósito ou saque ou transferência), caso a operação seja de transferência solicite o nome do banco, da agência e conta, receba as informações e, em ao final exiba o valor inicial, a operação realizada e o saldo atual, no caso de transferência exiba também os dados do banco, agência e conta.
+
+Altere o programa acima a fim de repetir a operação, por tantas vezes quanto o usuário desejar inicialmente, implemente a solução utilizando a estrura para.
+
+Por exemplo o usuário quer fazer um depósito um saque e uma transferência então, no inicio do programa ele definie que irá realizar 3 operações.
+
+- [Exercício 24](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2024%20-%20Banco.alg)
