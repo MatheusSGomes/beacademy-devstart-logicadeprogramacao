@@ -59,6 +59,10 @@ Estrutura condicionao `SE` verificando salário mínimo:
 
 - [Exercício 12](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2012.ALG)
 
-Crie um programa que receba a idade da pessoa e a classifique de acordo com a tabela (Exercício do IMC):
+Calcular o IMC:
 
 - [Exercício 13](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2013.ALG)
+
+Crie um programa que receba a idade da pessoa e a classifique de acordo com a tabela:
+
+- [Exercício 14](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2014.ALG)
