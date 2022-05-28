@@ -143,3 +143,10 @@ Exercício com estrutura Repita e palavra-chave Interrompa:
 Crie um programa que permita ao usuário tentar logar em seu Sistema informando seu nome e senha. Repita a operação até que o nome e senha correspondam a um valor armazenado (Marcos - 1234). Caso o usuário digite -1 interrompa a repetição e informe que o programa será finalizado por solicitação do usuário
 
 - [Exercício 30](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2030%20-%20Login%20e%20Senha.alg)
+
+Solicitar a idade de várias pessoas e imprimir:
+-Total de pessoas com menos de 18 anos
+-Total de pessoas com mais de 60 anos.
+-O programa termina quando idade for = -99
+
+- [Exercício 31](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2031%20-%20Soma%20das%20Idades.alg)
