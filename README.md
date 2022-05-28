@@ -46,3 +46,7 @@ Criar um programa que exibe o nome e a idade de uma pessa e exibe:
 
 6. Verdadeiro se a idade dividida por 2 é igual a ZERO;
 - [Exercício 9](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%209.ALG)
+
+Crie um programa que recebe um valor de depósito do usuário e atualize seu saldo. Ao final exiba o valor inicial, o depósito e o saldo.
+
+- [Exercício 10](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2010.ALG)
