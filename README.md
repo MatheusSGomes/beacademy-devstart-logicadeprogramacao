@@ -174,3 +174,7 @@ Faça um programa que solicite ao usuário o nome e o preço de 10 produtos e ar
 Ao final imprima o nome e os valores correspondentes dos produtos.
 
 - [Exercício 36](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2036%20-%20Cadastro%2010%20produtos.alg)
+
+Crie um programa que permita cadastrar os seguintes dados de um Aluno: Nome, nota1 e nota2. Receba estes valores em vetores e calcule e exbia ao final todos os dados e a informação se o aluno foi aprovado (média maior ou igual a 6) ou reprovado (média inferior a 6).
+
+- [Exercício 37](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2037%20-%20Cadastro%20Alunos.alg)
