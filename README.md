@@ -164,3 +164,7 @@ Quando isto ocorrer interrompa a operação e informe que o saque não pode ser 
 Exercício com Vetor:
 
 - [Exercício 34](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2034.alg)
+
+Exercício nota e nome dos alunos:
+
+- [Exercício 35](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2035.alg)
