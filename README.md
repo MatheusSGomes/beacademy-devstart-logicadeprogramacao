@@ -15,3 +15,7 @@ Solicitar duas notas do aluno:
 Imprimir PI:
 
 - [Exercício 4](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%204.alg)
+
+Teste lógicos:
+
+- [Exercício 5](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%205.ALG)
