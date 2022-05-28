@@ -23,3 +23,7 @@ Teste lógicos:
 Crie um programa que declare 3 variáveis para receber o Nome, o peso e a altura de uma pessoa. Ao final imprima os dados na tela:
 
 - [Exercício 6](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%206.ALG)
+
+Com base no programa anterior calcule e exiba ao final o ídice de massa corpórea (IMC) da pessoa sabendo que a fórmula para o cálculo é: IMC = Peso / (altura * altura):
+
+- [Exercício 7](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%207.ALG)
