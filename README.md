@@ -70,3 +70,12 @@ Crie um programa que receba a idade da pessoa e a classifique de acordo com a ta
 Algoritmo "Deposito ou Saque" - Crie um programa que permita ao usuário escolher a operação a realizar (depósito ou saque); Receba a informação da operação escolhida e o valor do usuário. Em seguida atualize seu saldo. Ao final exiba o valor inicial, a operação realizada e o saldo atual.
 
 - [Exercício 15](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2015.ALG)
+
+Crie um programa que solicite ao usuário a operação desejada e implemente as quatro operações matemáticas (soma, subtração, multiplicação e divisão):
+
+- [Exercício 16 - ExercicioCalculadora](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2016%20-%20Calculadora.ALG)
+- [Exercício 16 - CalculadoraBásica](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2016.ALG)
+
+Crie um programa que receba do usuário a figura geométrica que deseja calcular a área e o perímetro (Q - Quadrado) ou (T - Triangulo) e calcule e exiba a área e o perímetro da figura escolhida:
+
+- [Exercício 17](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2017%20-%20Calcular%20%C3%A1rea%20e%20per%C3%ADmetro.ALG)
