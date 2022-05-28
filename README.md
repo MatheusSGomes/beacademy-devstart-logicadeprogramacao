@@ -119,3 +119,7 @@ Exercício imprimindo até 10 com estrutura enquanto:
 Exercício Tabuada:
 
 - [Exercício 25](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2025%20-%20Tabuada.alg)
+
+Crie um programa que realize as 4 operações matemáticas a partir de 2 números que serão digitados pelo usuário. Após isto imprima os valores na tela e em seguida pergunte se ele quer realizar novo cálculo, repetindo as operações enquanto o usuário desejar continuar:
+
+- [Exercício 26]([beacademy-devstart-logicadeprogramacao/Exercício 26 - Calculadora.alg at main · MatheusSGomes/beacademy-devstart-logicadeprogramacao · GitHub](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2026%20-%20Calculadora.alg)
