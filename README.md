@@ -66,3 +66,7 @@ Calcular o IMC:
 Crie um programa que receba a idade da pessoa e a classifique de acordo com a tabela:
 
 - [Exercício 14](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2014.ALG)
+
+Algoritmo "Deposito ou Saque" - Crie um programa que permita ao usuário escolher a operação a realizar (depósito ou saque); Receba a informação da operação escolhida e o valor do usuário. Em seguida atualize seu saldo. Ao final exiba o valor inicial, a operação realizada e o saldo atual.
+
+- [Exercício 15](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2015.ALG)
