@@ -178,3 +178,13 @@ Ao final imprima o nome e os valores correspondentes dos produtos.
 Crie um programa que permita cadastrar os seguintes dados de um Aluno: Nome, nota1 e nota2. Receba estes valores em vetores e calcule e exbia ao final todos os dados e a informação se o aluno foi aprovado (média maior ou igual a 6) ou reprovado (média inferior a 6).
 
 - [Exercício 37](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2037%20-%20Cadastro%20Alunos.alg)
+
+Exercício de cadastro de clientes - Crie um programa que permita ao usuário cadastrar 5 clientes com os seguintes dados:
+1.Nome;
+
+2.CPF;
+3.RG;
+4.Endereço;
+5.Telefone.
+
+- [Exercício 38](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2038%20-%20Cadastro%20de%20Clientes.alg)
