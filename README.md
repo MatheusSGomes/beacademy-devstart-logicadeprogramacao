@@ -99,3 +99,7 @@ Crie um programa que receba do usuário um número e apresente a Tabuada deste:
 Crie um programa que apresenta os múltiplos de dois entre 0 e 100:
 
 - [Exercício 22](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2022%20-%20Multiplos.alg)
+
+Crie um programa que imprima os múltiplos de 3 entre 2 números digitados pelo usuário:
+
+- [Exercício 23](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2023%20-%20Multiplos.alg)
