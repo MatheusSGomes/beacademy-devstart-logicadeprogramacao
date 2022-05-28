@@ -188,3 +188,7 @@ Exercício de cadastro de clientes - Crie um programa que permita ao usuário ca
 5.Telefone.
 
 - [Exercício 38](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2038%20-%20Cadastro%20de%20Clientes.alg)
+
+Armazenar notas dos alunos em vetores:
+
+- [Exercício 39](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2039.alg)
