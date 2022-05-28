@@ -197,3 +197,7 @@ Crie um programa que permita o cadastro de uma Matriz e exiba a soma da diagonal
 Exemplo: Soma da diagonal principal = 73; Soma da diagonal secundária = 130.
 
 - [Exercício 40](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2040%20-%20Soma%20Diagonal%20Principal%20e%20Secund%C3%A1ria.alg)
+
+Considere uma planilha de 5 linhas por 4 colunas, a qual será representada por uma matriz bidimensional. Desenvolva um programa que faça a leitura, a partir do teclado, dos valores numéricos das primeiras 4 linhas e 3 colunas da planilha. Realizada a leitura, armazenar a soma dos valores de cada linha na linha correspondente da última coluna. Finalmente, armazenar a soma dos valores de cada coluna na coluna correspondente da última linha da planilha. Imprima a planilha ao final.
+
+- [Exercício 41](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2041.alg)
