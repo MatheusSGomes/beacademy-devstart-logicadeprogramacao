@@ -83,3 +83,11 @@ Crie um programa que receba do usuário a figura geométrica que deseja calcular
 Crie um programa que permita o usuário escolher a operação a realizar (Depósito, Saque, Transferência). Caso seja transferência, solicite o número do banco, agencia e da conta. Ao final exibir o valor final, a operação realizada e o saldo atual.
 
 - [Exercício 18](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2018%20-%20Banco.ALG)
+
+Imprimir de 1 a 10:
+
+- [Exercício 19](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2019.ALG)
+
+Imprimir de 10 a 1:
+
+- [Exercício 20](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2020ALG.alg)
