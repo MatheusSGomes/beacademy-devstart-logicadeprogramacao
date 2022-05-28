@@ -50,3 +50,7 @@ Criar um programa que exibe o nome e a idade de uma pessa e exibe:
 Crie um programa que recebe um valor de depósito do usuário e atualize seu saldo. Ao final exiba o valor inicial, o depósito e o saldo.
 
 - [Exercício 10](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2010.ALG)
+
+Estrutura condiciona `SE ENTÃO`:
+
+- [Exercício 11]()
