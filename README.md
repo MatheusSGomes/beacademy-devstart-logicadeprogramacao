@@ -79,3 +79,7 @@ Crie um programa que solicite ao usuário a operação desejada e implemente as 
 Crie um programa que receba do usuário a figura geométrica que deseja calcular a área e o perímetro (Q - Quadrado) ou (T - Triangulo) e calcule e exiba a área e o perímetro da figura escolhida:
 
 - [Exercício 17](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2017%20-%20Calcular%20%C3%A1rea%20e%20per%C3%ADmetro.ALG)
+
+Crie um programa que permita o usuário escolher a operação a realizar (Depósito, Saque, Transferência). Caso seja transferência, solicite o número do banco, agencia e da conta. Ao final exibir o valor final, a operação realizada e o saldo atual.
+
+- [Exercício 18](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2018%20-%20Banco.ALG)
