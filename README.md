@@ -2,11 +2,11 @@
 
 Algoritmo troca de pneu:
 
-- [Exercício 1](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exercício 1 - Algotirmo Troca de Pneu)
+- [Exercício 1](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%201%20-%20Algotirmo%20Troca%20de%20Pneu)
 
 Solicitar o endereço do usuário:
 
-- [Exercício 2](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exercício 2.ALG)
+- [Exercício 2](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%202.ALG)
 
 Solicitar duas notas do aluno:
 
