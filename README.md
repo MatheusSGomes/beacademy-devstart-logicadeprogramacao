@@ -11,3 +11,7 @@ Solicitar o endereço do usuário:
 Solicitar duas notas do aluno:
 
 - [Exercício 3](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%203.ALG)
+
+Imprimir PI:
+
+- [Exercício 4](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%204.alg)
