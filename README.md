@@ -160,3 +160,7 @@ Crie um programa inicie o saldo do cliente com `R$ 1000,00` e que permita o saqu
 Quando isto ocorrer interrompa a operação e informe que o saque não pode ser efetuado em razao de que o saldo era insuficiente para efetuar a operação:
 
 - [Exercício 33](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2033%20-%20Sistema%20de%20Saque.alg)
+
+Exercício com Vetor:
+
+- [Exercício 34](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2034.alg)
