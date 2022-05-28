@@ -168,3 +168,9 @@ Exercício com Vetor:
 Exercício nota e nome dos alunos:
 
 - [Exercício 35](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2035.alg)
+
+Faça um programa que solicite ao usuário o nome e o preço de 10 produtos e armazene-os em um vetor.
+
+Ao final imprima o nome e os valores correspondentes dos produtos.
+
+- [Exercício 36](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2036%20-%20Cadastro%2010%20produtos.alg)
