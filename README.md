@@ -150,3 +150,13 @@ Solicitar a idade de várias pessoas e imprimir:
 -O programa termina quando idade for = -99
 
 - [Exercício 31](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2031%20-%20Soma%20das%20Idades.alg)
+
+Apresentar o total da soma obtida dos cem primeiros números inteiros:
+
+- [Exercício 32](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2032%20-%20Soma%20N%C3%BAmeros%20Inteiros.alg)
+
+Crie um programa inicie o saldo do cliente com `R$ 1000,00` e que permita o saques consecutivos no valor de `R$ 150,00` até que seu saldo seja positivo.
+
+Quando isto ocorrer interrompa a operação e informe que o saque não pode ser efetuado em razao de que o saldo era insuficiente para efetuar a operação:
+
+- [Exercício 33](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2033%20-%20Sistema%20de%20Saque.alg)
