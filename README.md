@@ -111,3 +111,11 @@ Altere o programa acima a fim de repetir a operação, por tantas vezes quanto o
 Por exemplo o usuário quer fazer um depósito um saque e uma transferência então, no inicio do programa ele definie que irá realizar 3 operações.
 
 - [Exercício 24](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2024%20-%20Banco.alg)
+
+Exercício imprimindo até 10 com estrutura enquanto:
+
+- [Exercício 25](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2025.alg)
+
+Exercício Tabuada:
+
+- [Exercício 25](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2025%20-%20Tabuada.alg)
