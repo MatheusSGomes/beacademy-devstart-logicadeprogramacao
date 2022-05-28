@@ -91,3 +91,11 @@ Imprimir de 1 a 10:
 Imprimir de 10 a 1:
 
 - [Exercício 20](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2020ALG.alg)
+
+Crie um programa que receba do usuário um número e apresente a Tabuada deste:
+
+- [Exercício 21](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2021%20-%20Tabuada.alg)
+
+Crie um programa que apresenta os múltiplos de dois entre 0 e 100:
+
+- [Exercício 22](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2022%20-%20Multiplos.alg)
