@@ -6,4 +6,4 @@ Algoritmo troca de pneu:
 
 Solicitar o endereço do usuário:
 
-- 
+- [Exercício 2](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exercício 2.ALG)
