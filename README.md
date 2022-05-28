@@ -19,3 +19,7 @@ Imprimir PI:
 Teste lógicos:
 
 - [Exercício 5](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%205.ALG)
+
+Crie um programa que declare 3 variáveis para receber o Nome, o peso e a altura de uma pessoa. Ao final imprima os dados na tela:
+
+- [Exercício 6](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%206.ALG)
