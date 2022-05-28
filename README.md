@@ -127,3 +127,11 @@ Crie um programa que realize as 4 operações matemáticas a partir de 2 número
 Crie um programa que solicite ao usuário o sue nome e senha do cartão e valide se a senha e nome são corretos (Nome: Marcos e senha paylivre) e caso positivo, dê boas vindas ao usuário e, em caso negativo, solicite os dados novamente:
 
 - [Exercício 26](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2026%20-%20Validar%20Cart%C3%A3o.alg)
+
+Exercício imprimir de 1 até 10 com estrutura Repita:
+
+- [Exercício 27](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2027.alg)
+
+Exercício imprimir de 10 até 1 com estrutura Repita:
+
+- [Exercício 28](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2028.alg)
