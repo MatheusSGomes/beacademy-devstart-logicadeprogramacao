@@ -192,3 +192,8 @@ Exercício de cadastro de clientes - Crie um programa que permita ao usuário ca
 Armazenar notas dos alunos em vetores:
 
 - [Exercício 39](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2039.alg)
+
+Crie um programa que permita o cadastro de uma Matriz e exiba a soma da diagonal principal e secundária.
+Exemplo: Soma da diagonal principal = 73; Soma da diagonal secundária = 130.
+
+- [Exercício 40](https://github.com/MatheusSGomes/beacademy-devstart-logicadeprogramacao/blob/main/Exerc%C3%ADcio%2040%20-%20Soma%20Diagonal%20Principal%20e%20Secund%C3%A1ria.alg)
